@@ -1,0 +1,31 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.6*%
+%TF.CreationDate,2025-11-29T14:18:15+08:00*%
+%TF.ProjectId,Mount Winchester FL16,4d6f756e-7420-4576-996e-636865737465,1.1*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.6) date 2025-11-29 14:18:15*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,3.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H25*%
+X373000000Y-155340000D03*
+%TO.C,H26*%
+X378000000Y-65340000D03*
+%TO.C,H29*%
+X382000000Y-86220000D03*
+%TO.C,H30*%
+X382000000Y-142720000D03*
+%TO.C,H27*%
+X383000000Y-65340000D03*
+%TO.C,H28*%
+X383000000Y-152720000D03*
+M02*
